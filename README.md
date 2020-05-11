@@ -3,11 +3,11 @@
 Podemos __*misturar*__ configurações
 
 Lista numerada:
-1.Teste
-0.Teste2
-   1.Teste3
-   1.Teste5
-999.Teste4
+1. Teste
+0. Teste2
+   1. Teste3
+   1. Teste5
+999. Teste4
 
 
 
