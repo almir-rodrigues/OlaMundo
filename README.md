@@ -1,6 +1,10 @@
 # Aula de Linguagem Markdown
 ***
+**Negrito**
+*Itálico*
 Podemos __*misturar*__ configurações
+
+***
 
 Lista numerada:
 1. Teste
