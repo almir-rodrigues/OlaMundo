@@ -34,7 +34,7 @@ Lista de Tarefas:
 - [ ] Receber pagamento
 
 ***
-### Testando a Tabela
+## Testando a Tabela
 
 Num | Nome | Nota
 ---|---|---
@@ -46,7 +46,7 @@ Num | Nome | Nota
 Terminou a tabela
 
 ***
-#### Testando tag para códigos
+## Testando tag para códigos
 Olha meu código em Python
 
 ```
@@ -60,7 +60,7 @@ else:
 Terminou o código
 
 ***
-##### Testando emojis
+## Testando emojis
 Olá :vulcan_salute: :v:
 
 tabela com todos os códigos de emojis [aqui](https://github.com/ikatyang/emoji-cheat-sheet) by ikatyang
